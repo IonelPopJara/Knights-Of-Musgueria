@@ -1,2 +1,2 @@
 # Knights of Musgueria
-Online Multiplayer Game
+This is a small online multiplayer game made during quarantine using Unity and C#.
