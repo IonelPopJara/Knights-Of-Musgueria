@@ -6,4 +6,18 @@ If you want to check the server's application code, you can check the following 
 
 If you want to download the client and server versions, you can do it through the itch.io page. [Knights of Musgueria](https://mults.itch.io/knights-of-musgueria)
 
+You can also check [this video] where I talk about the creation process of the game.
+
 ## Screenshots
+
+<p aling='center'><img src='resources\sc-0.png'></p>
+
+<p aling='center'><img src='resources\sc-1.png'></p>
+
+<p aling='center'><img src='resources\sc-2.png'></p>
+
+<p aling='center'><img src='resources\sc-3.png'></p>
+
+<p aling='center'><img src='resources\sc-4.png'></p>
+
+<p aling='center'><img src='resources\sc-5.png'></p>
