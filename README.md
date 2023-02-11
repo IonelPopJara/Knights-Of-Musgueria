@@ -1,4 +1,6 @@
-# Knights of Musgueria Client
+# Knights of Musgueria (Client)
+
+The client part of Knights of Musgueria.
 
 Based on [Tom Weiland's Networking Series] https://youtu.be/uh8XaC0Y5MA this small online multiplayer game was developed during quarantine as way to distract myself and my friends.
 
